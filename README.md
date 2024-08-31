@@ -1,5 +1,5 @@
 # lab-1441
-# Title: Bringing DevOps to the Database with IBM DevOps and DBmaestro
+## Title: Bringing DevOps to the Database with IBM DevOps and DBmaestro
 
 This repository is the home for the lab guide for lab 1441 at IBM TechXchange 2024 in Las Vegas (October)
 
